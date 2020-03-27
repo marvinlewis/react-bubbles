@@ -28,11 +28,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain what a token is used for.
 
---
+-- a token is used for authentication. Most commonly used for private routes
 
 - [ ] What steps can you take in your web apps to keep your data secure?
+
+-- require authentication on protected routes, not hard code tokens, use .ignore files.
+
 - [ ] Describe how web servers work.
+
+-- a web server has multiple definitions. One is the physical tower that holds the backend of websites and the other is the actual code that operates the server.  
+
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+- PUT, POST, GET, DELETE
 
 
 ## Project Set Up
